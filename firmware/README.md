@@ -1,0 +1,1 @@
+This firmware is for raspberry pico w with lvgl and st7789 driver.
